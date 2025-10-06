@@ -1,0 +1,16 @@
+{
+  "app_id": "wx73fcf128e4b89db6",
+  "app_secret": "d7cce5e21661408eec5ad644dc672e83",
+  "template_id": "t23mhDDNMuFJan-YdhLlgnRdv0XT35o5TgJQfavvQ4Q",
+  "user": [
+    "oHEK52I-8LVh7ITed3JIcEDSPILs",
+    "oHEK52MaPbgUazbFl8PRwk3HBdAs"
+  ],
+  "boy_city_code": "110111",
+  "girl_city_code": "110113",
+  "boy_birth": "r2000-01-28",
+  "girl_birth": "2000-02-18",
+  "love_date": "2025-03-01",
+  "gaode_api": "84fff7d85994871b9233b2a01dc40a92",
+  "tianxing_api": "5debdd60bfa18228e27289925c8c13e4"
+}

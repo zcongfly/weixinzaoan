@@ -1,0 +1,15 @@
+🍂🍂{{date.DATA}}🍂🍂
+
+今日天气速报😎
+超超: {{boy_city.DATA}}，{{boy_weather.DATA}}，{{boy_night_temp.DATA}}~{{boy_day_temp.DATA}}℃
+碎碎念🍀：{{boy_note.DATA}}💌
+翀翀：{{girl_city.DATA}}，{{girl_weather.DATA}}，{{girl_night_temp.DATA}}~{{girl_day_temp.DATA}}℃
+碎碎念🍀：{{girl_note.DATA}}💌
+
+今天是我们恋爱💞的第{{love_days.DATA}}天
+距离超超👶的生日还有{{boy_next_birth.DATA}}天
+距离翀翀👧的生日还有{{girl_next_birth.DATA}}天
+超超今天也要记得上称哦(^▽^)
+
+今日诗词：{{shici.DATA}}
+😉😉 {{caihongpi.DATA}} 😉😉
