@@ -3,7 +3,6 @@ from time import localtime
 from requests import post
 
 from APIs import *
-from 源码版.tuisong.APIs import *
 
 
 # 推送信息
